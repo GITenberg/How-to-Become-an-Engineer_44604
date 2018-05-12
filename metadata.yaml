@@ -1,0 +1,25 @@
+_repo: How-to-Become-an-Engineer_44604
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Doughty, Frank W.
+    gutenberg_agent_id: '42832'
+    url: http://www.gutenberg.org/2009/agents/42832
+description: ''
+gutenberg_issued: '2014-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44604'
+  lccn: 06032952
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Locomotives -- Handbooks, manuals, etc.'
+- !lcc 'TJ'
+title: How to Become an Engineer
+url: http://www.gutenberg.org/ebooks/44604
